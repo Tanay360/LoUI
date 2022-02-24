@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="OutlinedTextField" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox"/>
+    <style name="FilledTextField" parent="Widget.MaterialComponents.TextInputLayout.FilledBox"/>
+    <style name="CircularShape">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <color name="iconColorPrimary">@android:color/black</color>
+    <color name="textColorReversed">@android:color/white</color>
+</resources>

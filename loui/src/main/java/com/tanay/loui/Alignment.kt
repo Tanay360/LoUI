@@ -1,0 +1,14 @@
+package com.tanay.loui
+
+enum class Alignment {
+    ALIGN_TOP,
+    ALIGN_TOP_LEFT,
+    ALIGN_TOP_RIGHT,
+    ALIGN_TOP_CENTER,
+    ALIGN_CENTER,
+    ALIGN_CENTER_LEFT,
+    ALIGN_CENTER_RIGHT,
+    ALIGN_BOTTOM_LEFT,
+    ALIGN_BOTTOM_RIGHT,
+    ALIGN_BOTTOM_CENTER
+}

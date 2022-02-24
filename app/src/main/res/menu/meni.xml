@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_android_black_24dp" android:id="@android:id/text2" android:title="Hello World"/>
+    <item android:icon="@drawable/ic_baseline_extension_24" android:id="@android:id/text1" android:iconTint="@color/black" android:title="Other World"/>
+</menu>
